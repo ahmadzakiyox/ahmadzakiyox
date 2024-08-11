@@ -1,7 +1,5 @@
 # 👋 Halo, Saya Ahmad Zakiyox!
 
-![Mario Bros GIF]([https://media.giphy.com/media/3o7aD3xztE3Ey7Q7By/giphy.gif](https://media.giphy.com/media/1luWzyfvY9sWkgJBO3/giphy.gif?cid=790b76117xjeofg783wu8yqjurkcfied1jyvfeu72r9dj32o&ep=v1_gifs_search&rid=giphy.gif&ct=g))
-
 ## 🚀 Tentang Saya
 - 🔭 Saat ini saya sedang mengerjakan proyek menarik di [ProyekKerenSaya](https://github.com/ahmadzakiyox/ProyekKerenSaya)
 - 🌱 Saya sedang memperdalam pengetahuan tentang Node.js dan framework Telegraf
@@ -12,9 +10,9 @@
 
 ## 📊 Statistik GitHub
 
-![Statistik GitHub Ahmad Zakiyox](https://github-readme-stats.vercel.app/api?username=ahmadzakiyox&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
+![Statistik GitHub Ahmad Zakiyox](https://github-readme-stats.vercel.app/api?username=ahmadzakiyox&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiyox&layout=compact&theme=dracula)](https://github.com/ahmadzakiyox)
+[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiyox&layout=compact&theme=radical)](https://github.com/ahmadzakiyox)
 
 ## 🏆 Trofi & Badge
 
@@ -24,7 +22,7 @@
 
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ahmadzakiyox&theme=react-dark)
 
-## 🎯 Lencana & Statistik
+## 🏅 Lencana & Statistik
 
 ![Pengikut GitHub](https://img.shields.io/github/followers/ahmadzakiyox?style=for-the-badge&label=Follow&logo=github) ![Bintang GitHub](https://img.shields.io/github/stars/ahmadzakiyox?style=for-the-badge&label=Stars&logo=github) ![Fork GitHub](https://img.shields.io/github/forks/ahmadzakiyox?style=for-the-badge&label=Forks&logo=github)
 
@@ -48,3 +46,5 @@ Saya suka tantangan baru dan selalu mencari cara untuk meningkatkan keterampilan
 ---
 
 🔗 **Jangan lupa untuk mengikuti dan berlangganan!**
+
+
