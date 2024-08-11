@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Ahmad Zakiyox!
 
-![Mario Bros GIF](https://media.giphy.com/media/3o7aD3xztE3Ey7Q7By/giphy.gif)
+![Mario Bros GIF]([https://media.giphy.com/media/3o7aD3xztE3Ey7Q7By/giphy.gif](https://media.giphy.com/media/1luWzyfvY9sWkgJBO3/giphy.gif?cid=790b76117xjeofg783wu8yqjurkcfied1jyvfeu72r9dj32o&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 
 ## 🚀 Tentang Saya
 - 🔭 Saat ini saya sedang mengerjakan proyek menarik di [ProyekKerenSaya](https://github.com/ahmadzakiyox/ProyekKerenSaya)
