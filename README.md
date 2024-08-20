@@ -1,50 +1,82 @@
-# 👋 Halo, Saya Ahmad Zakiyox!
+Mohon maaf atas kebingungan tersebut. Saya akan mengetik ulang seluruh kode README tanpa terpotong. Berikut adalah versi lengkapnya:
+markdownCopy<div align="center">
+  <img src="https://your-animated-banner-url.gif" alt="Ahmad Zaki's Animated Banner" width="100%">
+  <h1>👨‍💻 Ahmad Zaki | Code Wizard 🧙‍♂️</h1>
+</div>
 
-## 🚀 Tentang Saya
-- 🔭 Saat ini saya sedang mengerjakan proyek menarik di [ProyekKerenSaya](https://github.com/ahmadzakiyox/ProyekKerenSaya)
-- 🌱 Saya sedang memperdalam pengetahuan tentang Node.js dan framework Telegraf
-- 👯 Saya terbuka untuk kolaborasi pada proyek open-source
-- 🤔 Saya mencari bantuan dalam mengembangkan fitur canggih untuk bot Telegraf
-- 💬 Jangan ragu untuk bertanya tentang Node.js, Telegraf, atau topik pemrograman lainnya
-- 📫 Cara menghubungi saya: [email@example.com](mailto:email@example.com)
+<p align="center">
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
 
-## 📊 Statistik GitHub
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzakiyox&theme=radical" alt="GitHub Streak">
+</div>
 
-![Statistik GitHub Ahmad Zakiyox](https://github-readme-stats.vercel.app/api?username=ahmadzakiyox&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 🚀 Mission Control
 
-[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiyox&layout=compact&theme=radical)](https://github.com/ahmadzakiyox)
+```yaml
+name: Ahmad Zaki
+location: [Your Location]
+current_job: [Your Current Job]
+education:
+  [
+    "Self-Taught Developer and IT Enthusiast",
+    "Bachelor's in [Your Field]",
+  ]
+company: [Your Company]
 
-## 🏆 Trofi & Badge
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+  ]
+  
+technical_background:
+  [
+    "DevOps Solutions Architect",
+    "Full Stack Developer",
+    "Open Source Contributor",
+  ]
+  
+currently_learning: ["Docker", "Kubernetes", "AI/ML"]
+2024 Goals: ["Create 20+ Projects", "Contribute to Open Source"]
+hobbies: ["Gaming", "Cinema", "Hackathons", "Blogging"]
+<h2 align="center">🔥 Technologies & Tools 🔥</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiyox&theme=radical&layout=compact" alt="Top Languages">
+</div>
+<h2 align="center">🏆 My Top Open Source Projects 🏆</h2>
+<p align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=project2&theme=radical" />
+  </a>
+</p>
+<h2 align="center">💡 A Quote That Inspires Me 💡</h2>
+<p align="center">"Code is like humor. When you have to explain it, it's bad." - Cory House</p>
+<h2 align="center">🎵 Currently Vibing To 🎵</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" alt="Spotify">
+</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadzakiyox&color=blueviolet&style=for-the-badge" alt="Profile views">
+</div>
 
-![Trophy](https://img.shields.io/github/commit-activity/m/ahmadzakiyox?style=for-the-badge&logo=github&label=Commits) ![Contributions](https://img.shields.io/github/contributors/ahmadzakiyox?style=for-the-badge&logo=github&label=Contributors) ![Forks](https://img.shields.io/github/forks/ahmadzakiyox?style=for-the-badge&logo=github&label=Forks)
-
-![Top Languages](https://img.shields.io/github/languages/top/ahmadzakiyox?style=for-the-badge&logo=github&label=Top%20Languages) ![Repo Size](https://img.shields.io/github/repo-size/ahmadzakiyox/ProyekKerenSaya?style=for-the-badge&logo=github&label=Repo%20Size)
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ahmadzakiyox&theme=react-dark)
-
-## 🏅 Lencana & Statistik
-
-![Pengikut GitHub](https://img.shields.io/github/followers/ahmadzakiyox?style=for-the-badge&label=Follow&logo=github) ![Bintang GitHub](https://img.shields.io/github/stars/ahmadzakiyox?style=for-the-badge&label=Stars&logo=github) ![Fork GitHub](https://img.shields.io/github/forks/ahmadzakiyox?style=for-the-badge&label=Forks&logo=github)
-
-![Jumlah Pengunjung](https://profile-counter.glitch.me/ahmadzakiyox/count.svg)
-
-## 🔗 Terhubung dengan Saya
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Terhubung-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadzakiyox/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmadzakiyox)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadzaki_yo/)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmadzakiyo)
-
-## 📂 Repositori Saya
-
-- [ProyekKerenSaya](https://github.com/ahmadzakiyox/ProyekKerenSaya) - Proyek yang sedang saya kerjakan
-- [RepoLainnya](https://github.com/ahmadzakiyox/RepoLainnya) - Proyek-proyek lainnya yang saya buat
-
-## 💡 Fakta Menarik
-Saya suka tantangan baru dan selalu mencari cara untuk meningkatkan keterampilan saya dalam pemrograman!
-
----
-
-🔗 **Jangan lupa untuk mengikuti dan berlangganan!**
-
-
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+```
