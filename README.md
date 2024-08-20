@@ -44,6 +44,7 @@ technical_background:
   
 currently_learning: ["Docker", "Kubernetes", "AI/ML"]
 2024 Goals: ["Create 20+ Projects", "Contribute to Open Source"]
+```
 hobbies: ["Gaming", "Cinema", "Hackathons", "Blogging"]
 <h2 align="center">🔥 Technologies & Tools 🔥</h2>
 <p align="center">
@@ -79,4 +80,3 @@ hobbies: ["Gaming", "Cinema", "Hackathons", "Blogging"]
 </div>
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-```
