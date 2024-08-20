@@ -42,8 +42,8 @@ technical_background:
   
 currently_learning: ["Docker", "Kubernetes", "AI/ML"]
 2024 Goals: ["Create 20+ Projects", "Contribute to Open Source"]
-```
 hobbies: ["Gaming", "Cinema", "Hackathons", "Blogging"]
+```
 <h2 align="center">🔥 Technologies & Tools 🔥</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
