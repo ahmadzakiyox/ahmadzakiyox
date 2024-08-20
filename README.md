@@ -1,5 +1,4 @@
-Mohon maaf atas kebingungan tersebut. Saya akan mengetik ulang seluruh kode README tanpa terpotong. Berikut adalah versi lengkapnya:
-markdownCopy<div align="center">
+<div align="center">
   <img src="https://your-animated-banner-url.gif" alt="Ahmad Zaki's Animated Banner" width="100%">
   <h1>👨‍💻 Ahmad Zaki | Code Wizard 🧙‍♂️</h1>
 </div>
@@ -62,9 +61,9 @@ hobbies: ["Gaming", "Cinema", "Hackathons", "Blogging"]
 <h2 align="center">🏆 My Top Open Source Projects 🏆</h2>
 <p align="center">
   <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=project1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=nuxbot&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/project2">
+  <a href="https://github.com/ahmadzakiyox/nuxbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=project2&theme=radical" />
   </a>
 </p>
