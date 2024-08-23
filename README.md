@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://your-animated-banner-url.gif" alt="Ahmad Zaki's Animated Banner" width="100%">
   <h1>👨‍💻 Ahmad Zaki | Code Alchemist 🧪</h1>
 </div>
 
