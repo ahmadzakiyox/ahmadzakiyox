@@ -80,15 +80,11 @@ mystical_pursuits: ["Virtual Reality Exploration", "Cinematic Illusions", "Hacka
   <a href="https://github.com/ahmadzakiyox/nuxbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=nuxbot&theme=radical" />
   </a>
-  <a href="https://github.com/ahmadzakiyox/Restapi-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=Restapi-Website&theme=radical" />
-  </a>
 </p>
-<h2 align="center">💡 Words of Power 💡</h2>
 <h2 align="center">🎵 YouTube Playlist: Code & Chill 🎵</h2>
 
 <div align="center">
-  <a href="https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID">
+  <a href="https://music.youtube.com/playlist?list=PLumQPMAg287MZfNjy45Avp248drO5nkj4&si=r--nHOo33BUqcadj">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist">
   </a>
 </div>
