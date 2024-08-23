@@ -14,8 +14,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzakiyox&theme=radical" alt="GitHub Streak">
 </div>
 
-## 🧬 The Code of Ahmad Zaki
-
 ```yaml
 name: Ahmad Zaki
 title: Full Stack Sorcerer & DevOps Virtuoso
