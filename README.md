@@ -85,11 +85,23 @@ mystical_pursuits: ["Virtual Reality Exploration", "Cinematic Illusions", "Hacka
   </a>
 </p>
 <h2 align="center">💡 Words of Power 💡</h2>
-<p align="center">"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie</p>
-<h2 align="center">🎵 Current Enchantment 🎵</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" alt="Spotify">
-</p>
+<h2 align="center">🎵 YouTube Playlist: Code & Chill 🎵</h2>
+
+<div align="center">
+  <a href="https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist">
+  </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=VIDEO_ID_1"><img src="https://img.youtube.com/vi/VIDEO_ID_1/0.jpg" width="140px"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=VIDEO_ID_2"><img src="https://img.youtube.com/vi/VIDEO_ID_2/0.jpg" width="140px"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=VIDEO_ID_3"><img src="https://img.youtube.com/vi/VIDEO_ID_3/0.jpg" width="140px"></a></td>
+    </tr>
+  </table>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadzakiyox&color=blueviolet&style=for-the-badge" alt="Profile views">
 </div>
