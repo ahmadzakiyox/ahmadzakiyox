@@ -80,8 +80,8 @@ mystical_pursuits: ["Virtual Reality Exploration", "Cinematic Illusions", "Hacka
   <a href="https://github.com/ahmadzakiyox/nuxbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=nuxbot&theme=radical" />
   </a>
-  <a href="https://github.com/ahmadzakiyox/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=project2&theme=radical" />
+  <a href="https://github.com/ahmadzakiyox/Restapi-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=Restapi-Website&theme=radical" />
   </a>
 </p>
 <h2 align="center">💡 Words of Power 💡</h2>
