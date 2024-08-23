@@ -67,6 +67,17 @@ mystical_pursuits: ["Virtual Reality Exploration", "Cinematic Illusions", "Hacka
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiyox&theme=radical&layout=compact" alt="Top Languages">
 </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzakiyox&theme=radical" alt="GitHub Streak">
+</div>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadzakiyox&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies">
+</div>
+
+## 🧬 The Code of Ahmad Zaki
 <h2 align="center">🏆 Legendary Open Source Artifacts 🏆</h2>
 <p align="center">
   <a href="https://github.com/ahmadzakiyox/nuxbot">
