@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ahmadzakiyox.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
