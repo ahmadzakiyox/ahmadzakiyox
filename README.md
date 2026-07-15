@@ -15,34 +15,34 @@
 
 ```yaml
 name: Ahmad Zaki
-title: Full Stack Sorcerer & DevOps Virtuoso
+title: Full Stack Developer & DevOps Engineer
 location: Jakarta, Indonesia
-current_focus: Crafting Digital Marvels
+current_focus: Building Scalable Web Applications & API Gateways
 
 education:
   [
-    "Self-Taught Developer Extraordinaire",
-    "Bachelor's in Digital Alchemy",
+    "Self-Taught Software Engineer",
+    "Computer Science Graduate",
   ]
 
 realms_of_expertise:
   [
-    "Web Development Wizardry",
-    "Data Science Sorcery",
-    "Machine Learning Enchantments",
-    "UI/UX Illusions",
+    "Web Application Development",
+    "API Integrations & Payment Gateways",
+    "Cloud Infrastructure & CI/CD Pipelines",
+    "Database Optimization & Security",
   ]
 
-technical_grimoire:
+technical_stack:
   [
-    "DevOps Architecture Mastermind",
-    "Full Stack Spell Weaver",
-    "Open Source Potion Brewer",
+    "Node.js, Express, JavaScript/TypeScript",
+    "Python, Flask/FastAPI, Go",
+    "Docker, Kubernetes, AWS, Nginx",
   ]
 
-current_quests: ["Mastering Docker Incantations", "Kubernetes Conjuring", "AI/ML Divination"]
-2026_prophecies: ["Forge 20+ Legendary Artifacts", "Contribute to the Open Source Pantheon"]
-mystical_pursuits: ["Virtual Reality Exploration", "Cinematic Illusions", "Hackathon Time-bending", "Digital Scroll Scribing"]
+current_quests: ["Scaling Microservices", "Implementing Advanced Cryptography"]
+2026_goals: ["Develop High-Performance Gateways", "Contribute to Open Source Projects"]
+
 ```
 
 <h2 align="center">🔮 Arcane Tools & Technologies 🔮</h2>
