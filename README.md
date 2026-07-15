@@ -63,24 +63,32 @@ mystical_pursuits: ["Virtual Reality Exploration", "Cinematic Illusions", "Hacka
   <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
 </p>
 
+---
+
+<h2 align="center">🏆 Featured Projects 🏆</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiyox&theme=radical&layout=compact" alt="Top Languages">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 <a href="https://github.com/ahmadzakiyox/shoppepay-api-gateway">shoppepay-api-gateway</a></h3>
+        <p>Stateless API Gateway for ShopeePay Partner website mutation checking, token validation, and dynamic QRIS EMVCo injection.</p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/Stateless-brightgreen?style=flat-square" alt="Stateless">
+      </td>
+      <td width="50%" valign="top">
+        <h3>🤖 <a href="https://github.com/ahmadzakiyox/nuxbot">nuxbot</a></h3>
+        <p>A multi-functional WhatsApp/Telegram Bot automation framework built with Node.js and scalable handler structures.</p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Automation-orange?style=flat-square" alt="Automation">
+        <img src="https://img.shields.io/badge/Bot-blue?style=flat-square" alt="Bot">
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadzakiyox&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies">
-</div>
-
-<h2 align="center">🏆 Pinned Legendary Artifacts 🏆</h2>
-<p align="center">
-  <a href="https://github.com/ahmadzakiyox/shoppepay-api-gateway" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=shoppepay-api-gateway&theme=radical" alt="ShopeePay API Gateway Pin" />
-  </a>
-  <a href="https://github.com/ahmadzakiyox/nuxbot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=nuxbot&theme=radical" alt="NuxBot Pin" />
-  </a>
-</p>
+---
 
 <h2 align="center">🎵 YouTube Playlist: Code & Chill 🎵</h2>
 <div align="center">
@@ -92,9 +100,9 @@ mystical_pursuits: ["Virtual Reality Exploration", "Cinematic Illusions", "Hacka
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank"><img src="https://img.youtube.com/vi/jfKfPfyJRdk/0.jpg" width="160px" alt="Lofi Girl Radio"></a></td>
-      <td><a href="https://www.youtube.com/watch?v=4xDzrJKXOOY" target="_blank"><img src="https://img.youtube.com/vi/4xDzrJKXOOY/0.jpg" width="160px" alt="Synthwave Chill Radio"></a></td>
-      <td><a href="https://www.youtube.com/watch?v=tNtMyUXSGJk" target="_blank"><img src="https://img.youtube.com/vi/tNtMyUXSGJk/0.jpg" width="160px" alt="Lofi Coding Radio"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=hHW1oY26kxQ" target="_blank"><img src="https://img.youtube.com/vi/hHW1oY26kxQ/hqdefault.jpg" width="160px" alt="Lofi Girl Radio"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=8GW6sLrK40k" target="_blank"><img src="https://img.youtube.com/vi/8GW6sLrK40k/hqdefault.jpg" width="160px" alt="Synthwave Chill Radio"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=tNtMyUXSGJk" target="_blank"><img src="https://img.youtube.com/vi/tNtMyUXSGJk/hqdefault.jpg" width="160px" alt="Lofi Coding Radio"></a></td>
     </tr>
   </table>
 </div>
