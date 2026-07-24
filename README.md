@@ -106,7 +106,9 @@
 # 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadzakiyox&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadzakiyox&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" alt="Ahmad Zaki GitHub Trophies" />
+  </a>
 </div>
 
 ---
