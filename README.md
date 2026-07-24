@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=650&height=50&lines=Building+Scalable+Payment+Gateways+%F0%9F%92%B3;Specialized+in+QRIS+EMVCo+%26+Automations+%E2%9A%A1;Backend+Engineer+%7C+DevOps+%7C+API+Architect+%F0%9F%9A%80;Self-Taught+%E2%86%92+Battle-Hardened+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- SOCIAL BADGES -->
 <p align="center">
@@ -35,14 +35,12 @@
 
 # 💫 About Me
 
-```markdown
-  🔭 I’m currently working on      » High-Performance Payment Gateways & Microservices (GoPay, ShopeePay)
-  👯 I’m looking to collaborate on » Open-source Fintech Tools, Automated Banking & E-Wallet Gateways
-  🤝 I’m looking for help with     » Distributed Systems, High-Concurrency Node.js/Go & K8s Orchestration
-  🌱 I’m currently learning        » Rust, Advanced Microservice Patterns & ISO 20022 / EMVCo Standards
-  💬 Ask me about                  » Node.js, Express, QRIS EMVCo Generation, OTP Auth Systems & cPanel/VPS Setup
-  ⚡ Fun fact                      » I turn coffee and API log tracebacks into production-ready gateways ☕⚡
-```
+- 🔭 **I’m currently working on**: High-Performance Payment Gateways ([GoPay Gateway](https://github.com/ahmadzakiyox/gopay-api-gateaway), [ShopeePay Gateway](https://github.com/ahmadzakiyox/shoppepay-api-gateway))
+- 👯 **I’m looking to collaborate on**: Open-source Fintech Tools, Automated Banking & E-Wallet Gateways
+- 🤝 **I’m looking for help with**: Distributed Systems, High-Concurrency Node.js/Go & K8s Orchestration
+- 🌱 **I’m currently learning**: Rust, Advanced Microservice Patterns & ISO 20022 / EMVCo Standards
+- 💬 **Ask me about**: Node.js, Express, QRIS EMVCo Generation, OTP Auth Systems & cPanel/VPS Setup
+- ⚡ **Fun fact**: I turn coffee and API log tracebacks into production-ready gateways ☕⚡
 
 ---
 
@@ -105,69 +103,46 @@
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadzakiyox&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" alt="Ahmad Zaki GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadzakiyox&theme=radical&no-frame=false&no-bg=true" alt="Ahmad Zaki GitHub Trophies" />
   </a>
-</div>
+</p>
 
 ---
 
 # 📊 GitHub Stats & Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadzakiyox&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiyox&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
+</p>
 
-<table border="0">
-  <tr>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ahmadzakiyox&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadzakiyox&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzakiyox&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadzakiyox&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
 # 🚀 Featured Repositories
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ahmadzakiyox/gopay-api-gateaway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=gopay-api-gateaway&theme=tokyonight&hide_border=false" alt="GoPay API Gateway" />
+  </a>
+  <a href="https://github.com/ahmadzakiyox/shoppepay-api-gateway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=shoppepay-api-gateway&theme=tokyonight&hide_border=false" alt="ShopeePay API Gateway" />
+  </a>
+</p>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ahmadzakiyox/gopay-api-gateaway">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=gopay-api-gateaway&theme=tokyonight&hide_border=false" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ahmadzakiyox/shoppepay-api-gateway">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=shoppepay-api-gateway&theme=tokyonight&hide_border=false" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ahmadzakiyox/nuxbot">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=nuxbot&theme=tokyonight&hide_border=false" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ahmadzakiyox/orderkuota-gateway">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=orderkuota-gateway&theme=tokyonight&hide_border=false" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ahmadzakiyox/nuxbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=nuxbot&theme=tokyonight&hide_border=false" alt="NuxBot" />
+  </a>
+  <a href="https://github.com/ahmadzakiyox/orderkuota-gateway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadzakiyox&repo=orderkuota-gateway&theme=tokyonight&hide_border=false" alt="OrderKuota Gateway" />
+  </a>
+</p>
 
 ---
 
